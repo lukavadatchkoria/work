@@ -1,0 +1,3 @@
+function clickOn() {
+    alert('Hey!')
+}
